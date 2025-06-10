@@ -17,3 +17,4 @@ Commit 14 line
 Commit 15 line
 # Zama Developer Project
 ## Step 1: Setup GitHub repo & Codespace
+## Step 2: Install dependencies
