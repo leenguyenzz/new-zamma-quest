@@ -28,3 +28,4 @@ Commit 15 line
 ## Step 6: Add placeholder for deployment
 - Reference: Zama SDK install
 ## Step 7: Add learning resources
+- Zama documentation: https://docs.zama.ai/
