@@ -20,3 +20,4 @@ Commit 15 line
 ## Step 2: Install dependencies
 ## Step 3: Zama project goal - Privacy-preserving AI
 - Homomorphic encryption overview
+- Use case: Encrypted ML inference
