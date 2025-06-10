@@ -18,3 +18,4 @@ Commit 15 line
 # Zama Developer Project
 ## Step 1: Setup GitHub repo & Codespace
 ## Step 2: Install dependencies
+## Step 3: Zama project goal - Privacy-preserving AI
