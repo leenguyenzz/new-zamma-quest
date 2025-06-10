@@ -22,3 +22,4 @@ Commit 15 line
 - Homomorphic encryption overview
 - Use case: Encrypted ML inference
 - Use case: Private voting with Zama
+## Step 4: Create basic contract structure
