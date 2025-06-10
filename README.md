@@ -25,3 +25,4 @@ Commit 15 line
 ## Step 4: Create basic contract structure
 - Define functions for encrypted inputs
 ## Step 5: Write mock test case
+## Step 6: Add placeholder for deployment
