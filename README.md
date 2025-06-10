@@ -26,3 +26,4 @@ Commit 15 line
 - Define functions for encrypted inputs
 ## Step 5: Write mock test case
 ## Step 6: Add placeholder for deployment
+- Reference: Zama SDK install
