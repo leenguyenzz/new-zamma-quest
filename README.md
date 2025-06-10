@@ -19,3 +19,4 @@ Commit 15 line
 ## Step 1: Setup GitHub repo & Codespace
 ## Step 2: Install dependencies
 ## Step 3: Zama project goal - Privacy-preserving AI
+- Homomorphic encryption overview
