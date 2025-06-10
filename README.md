@@ -27,3 +27,4 @@ Commit 15 line
 ## Step 5: Write mock test case
 ## Step 6: Add placeholder for deployment
 - Reference: Zama SDK install
+## Step 7: Add learning resources
