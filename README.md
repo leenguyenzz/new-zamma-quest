@@ -24,3 +24,4 @@ Commit 15 line
 - Use case: Private voting with Zama
 ## Step 4: Create basic contract structure
 - Define functions for encrypted inputs
+## Step 5: Write mock test case
