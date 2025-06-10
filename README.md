@@ -29,3 +29,4 @@ Commit 15 line
 - Reference: Zama SDK install
 ## Step 7: Add learning resources
 - Zama documentation: https://docs.zama.ai/
+## Final note: Zama Guild verification ready
